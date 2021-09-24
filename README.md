@@ -8,6 +8,7 @@ https://user-images.githubusercontent.com/70627266/134640046-96eead6a-c992-4aa6-
 
 
 # speed variable:
+it is important to consider sampeling frequency as well( twice as big as main frequency)
 
 output:
 
